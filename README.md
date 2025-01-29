@@ -51,7 +51,7 @@
 <body>
     <h1>Will you go out with me?</h1>
     <div class="buttons">
-        <button class="yes" onclick="alert('Yay! I\'m so happy! ❤️')">Yes</button>
+        <button class="yes" onclick="alert('You will be under my care and i am really happy')">Yes</button>
         <button class="no">No</button>
     </div>
 </body>
