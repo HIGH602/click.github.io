@@ -12,7 +12,9 @@
             height: 100vh;
             flex-direction: column;
             font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
+            background: url('https://source.unsplash.com/1600x900/?love,romantic') no-repeat center center/cover;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
         h1 {
             font-size: 2rem;
