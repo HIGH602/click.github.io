@@ -12,8 +12,8 @@
             height: 100vh;
             flex-direction: column;
             font-family: Arial, sans-serif;
-            background: url('https://source.unsplash.com/1600x900/?love,romantic') no-repeat center center/cover;
-            color: white;
+            background: url(![digital-art-valentine-s-day-scene-with-couple-love](https://github.com/user-attachments/assets/53152065-00ea-42ab-b489-571b1766816d)) no-repeat center center/cover;
+            color: pink;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
         h1 {
